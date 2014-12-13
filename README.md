@@ -1,5 +1,5 @@
-Information_Retrieval_Project_Expert_Seaarch
-============================================
+Information_Retrieval_Project_Expert_Search
+===========================================
 
 This repository is for IR project. It is an expert search web application.
 
